@@ -13,5 +13,3 @@ Troisième ligne
 	Paragraphe n°5 : Celui-ci a été ajouté directement à partir de github
 	
 	Paragraphe n°6 : créé à partir de github par sur la branche toto
-	
-Titre n°10 :
