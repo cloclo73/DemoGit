@@ -15,4 +15,4 @@ Troisième ligne
 	Paragraphe n°6 : créé à partir de github par sur la branche toto
 	
 	
-Ceci un titre majeur
+Ceci un titre majeur (commentaire : ajout d'un message)
